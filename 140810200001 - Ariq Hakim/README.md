@@ -1,4 +1,4 @@
-#BIODATA
+# BIODATA
 
 Nama : Ariq Hakim Ruswadi
 
